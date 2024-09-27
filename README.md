@@ -6,3 +6,5 @@ lab-6
 https://github.com/2303A51112AIML/2303A51112/blob/main/Untitled7.ipynb
 LAB-7
 https://github.com/2303A51112AIML/2303A51112/blob/main/Lab07.ipynb
+Lab-8
+https://github.com/2303A51112AIML/2303A51112/blob/main/Lab08.ipynb
